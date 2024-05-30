@@ -1,7 +1,5 @@
 # Codsoft-task-2
 
-Here's a possible LinkedIn caption for completing the task:
-
 "Just built my personal portfolio from scratch using HTML and CSS! This project was a great way to showcase my skills and experience as a web developer. Check it out and let me know what you think! [link to your portfolio] #webdevelopment #portfolio #html #css #codsoft"
 
 Now, let me break down the task and explain what's required for each section:
